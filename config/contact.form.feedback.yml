@@ -1,0 +1,14 @@
+uuid: b84e9f33-ec5a-4d54-812a-42795c9c7d16
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - eric.michalsen@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
